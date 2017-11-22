@@ -1,0 +1,10 @@
+set number
+set relativenumber
+set nowrap
+set viminfo='1000,f1
+set tabstop=4
+set shiftwidth=4
+set fileencodings=utf-8,cp1251,koi8-r
+set wildmenu 
+set foldmethod=syntax
+set nofoldenable
